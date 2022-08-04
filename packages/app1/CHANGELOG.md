@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/kaijin1234/lerna-husky/compare/app1@0.2.2...app1@0.3.0) (2022-08-04)
+
+### Features
+
+- work pls ([7a97b3e](https://github.com/kaijin1234/lerna-husky/commit/7a97b3e52286ffb6411c22e838721e0620c89fe5))
+
 ## [0.2.2](https://github.com/kaijin1234/lerna-husky/compare/app1@0.2.1...app1@0.2.2) (2022-08-04)
 
 **Note:** Version bump only for package app1
