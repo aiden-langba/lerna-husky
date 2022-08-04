@@ -1,5 +1,5 @@
 {
-  "packages/**/*.+(js|jsx|json|ts|tsx)": [
+  "packages/**/src/*.+(js|jsx|json|ts|tsx)": [
     "eslint --cache --fix"
   ],
   "*": [
