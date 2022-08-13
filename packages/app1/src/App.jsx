@@ -6,6 +6,7 @@ function App() {
   const [count, setCount] = useState(0);
   const first = "hey";
 
+  // console.log(first);
   console.log(first);
 
   return (
@@ -14,7 +15,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
         <p>
-          <button type="button" onClick={() => setCount((count) => count + 1)}>
+          <button type="button" onClick={() => setCount((c) => c + 1)}>
             count is: {count}
           </button>
         </p>
