@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.10.1](https://github.com/kaijin1234/lerna-husky/compare/app1@0.10.0...app1@0.10.1) (2022-08-13)
+
+**Note:** Version bump only for package app1
+
 # [0.10.0](https://github.com/kaijin1234/lerna-husky/compare/app1@0.9.0...app1@0.10.0) (2022-08-04)
 
 - feat!: askjdaksdjl ([f5d7afc](https://github.com/kaijin1234/lerna-husky/commit/f5d7afced2262df7fa17a4d0d0e05df40e2537b0))
