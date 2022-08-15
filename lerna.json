@@ -3,8 +3,5 @@
   "useNx": true,
   "useWorkspaces": true,
   "version": "independent",
-  "changelogPreset": {
-    "name": "conventionalcommits",
-    "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
-  }
+  "changelogPreset": "conventionalcommits"
 }
