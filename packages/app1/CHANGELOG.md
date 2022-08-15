@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/kaijin1234/lerna-husky/compare/app1@2.1.0...app1@3.0.0) (2022-08-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* ajkshdksd
+* ajkshdksd
+
+### Features
+
+* ajkshdksd ([36dc940](https://github.com/kaijin1234/lerna-husky/commit/36dc9407cb98ac82157dcf609503c1fc23060563))
+* ajkshdksd ([d0fca20](https://github.com/kaijin1234/lerna-husky/commit/d0fca209892854be26614eaeb6c8cae6dfafde76))
+* ajkshdksd ([7429295](https://github.com/kaijin1234/lerna-husky/commit/74292956251930f7a009b14aaf37e5e9cc43aca2))
+
+
+
 ## [2.1.0](https://github.com/kaijin1234/lerna-husky/compare/app1@2.0.1...app1@2.1.0) (2022-08-15)
 
 
