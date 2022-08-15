@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.0](https://github.com/kaijin1234/lerna-husky/compare/app1@2.0.1...app1@2.1.0) (2022-08-15)
+
+
+### Features
+
+* ajkshdksd ([190bba3](https://github.com/kaijin1234/lerna-husky/commit/190bba3132a8f7d2edac3bcc34e12414329ff5e7))
+
+
+
 ## [2.0.1](https://github.com/kaijin1234/lerna-husky/compare/app1@2.0.0...app1@2.0.1) (2022-08-15)
 
 **Note:** Version bump only for package app1
